@@ -9,4 +9,4 @@ Place the input files in these folders before running the scripts.
 | `own/` | Count tables of Caimanta, LA0722 and F1 per comparison (`toc_*_PvsV.csv`, `toc_*_RvsV.csv`), and `combined.csv` (27 samples) for script 03. |
 | `public/` | `GSE174607_counts_anno.txt`, downloaded from GEO. |
 
-Raw reads of Caimanta, LA0722 and F1: [BioProject accession]. Public datasets: GEO GSE294808, GSE245512, GSE152620, GSE151277, GSE174607 and GSE245759.
+Raw reads of Caimanta and LA0722 in Cambiasso et al 2021 Cambiaso, Vladimir; Pratta, Guillermo Raúl; Pereira Da Costa, Javier Hernán; Zorzoli, Roxana; Francis, David Merrill; et al.; Whole genome re-sequencing analysis of two tomato genotypes for polymorphism insight in cloned genes and a genetic map construction; Elsevier Science; Scientia Horticulturae; 247; 3-2019; 58-66 . Public datasets: GEO GSE294808, GSE245512, GSE152620, GSE151277, GSE174607 and GSE245759.
